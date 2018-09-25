@@ -6,12 +6,6 @@ type: ABSTRACT
 authors:
   - Asiya Shaji
 
-init:
-  - GitHub_create_init
-  - project_create_github_abstract
-  - job_create_init_abstract
-
-
 endpoint: /jobs/{{@Response.data.id}}
 
 method: DELETE
