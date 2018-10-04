@@ -40,7 +40,7 @@ environments:
       - name: Default
         authType: BASIC
         username: ASIYA//asiya@fxlabs.io
-        password: '{{@Vault.FXLabs_QA/Uat-Admin-Pass}}'
+        password: '{{@Vault.ASIYA/Uat-Admin-Pass}}'
 
 
 # Job profiles
