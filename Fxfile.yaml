@@ -39,7 +39,7 @@ environments:
     auths:
       - name: Default
         authType: BASIC
-        username: admin@fxlabs.io
+        username: ASIYA//asiya@fxlabs.io
         password: '{{@Vault.FXLabs_QA/Uat-Admin-Pass}}'
 
 
